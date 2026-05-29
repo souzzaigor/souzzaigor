@@ -10,11 +10,12 @@ Tenho experiência prática em construir soluções de ponta a ponta, desde a ex
 
 ### 🛠️ Minhas Habilidades (Tech Stack)
 
-*   **Python:** Foco em Análise de Dados e processos de ETL utilizando **Pandas**.
-*   **SQL:** Domínio em extração e tratamento de dados, utilização de **CTEs**, múltiplos **Joins** e funções de janelamento (**Partition By**).
-*   **Power BI:** Criação de dashboards executivos, modelagem de dados robusta e construção de medidas com **DAX**.
-*   **Idiomas:** Inglês Intermediário (B1).
-
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
 ---
 
 ### 🚀 O que estou construindo e destacando
