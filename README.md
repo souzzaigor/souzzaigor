@@ -2,7 +2,7 @@
 
 ### 📊 Futuro Analista de Dados | Business Intelligence
 
-Sou estudante de **Graduação em Análise e Desenvolvimento de Sistemas na USF** (com conclusão prevista para Julho de 2027). Sou apaixonado por transformar dados complexos em decisões estratégicas de negócio e atualmente busco uma oportunidade de estágio na área de Dados/BI.
+Sou estudante de **Graduação em Análise e Desenvolvimento de Sistemas na USF**. Sou apaixonado por transformar dados complexos em decisões estratégicas de negócio e atualmente busco uma oportunidade de estágio na área de Dados/BI.
 
 Tenho experiência prática em construir soluções de ponta a ponta, desde a extração e tratamento dos dados até a modelagem e visualização executiva. 
 
