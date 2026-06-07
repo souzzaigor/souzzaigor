@@ -39,4 +39,9 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolv
 ### 📫 Como me encontrar
 <p align="left">
   <a href="mailto:igorblecks@gmail.com">
-    <img src="
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/igor-carvalho-39546b3a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
