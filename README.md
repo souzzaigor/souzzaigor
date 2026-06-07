@@ -31,10 +31,11 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolv
 - **Dashboard Executivo de Prevenção de Churn e Risco de Crédito:** Projeto de ciclo completo englobando ETL com Pandas e modelagem DAX no Power BI para tomada de decisão.
 
 ### 📊 Meus Status no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souzzaigor&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzaigor&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzzaigor&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzaigor&layout=compact&theme=dracula&locale=pt-br"/>
+</div>
 
 ### 📫 Como me encontrar
 <p align="left">
