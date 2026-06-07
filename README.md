@@ -1,33 +1,35 @@
-# Olá, eu sou o Igor Carvalho de Souza! 👋
+# Olá! Eu sou o Igor Carvalho de Souza 👋
 
-### 📊 Futuro Analista de Dados | Business Intelligence
+Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolvimento de Sistemas, apaixonado por transformar dados em decisões estratégicas e automações inteligentes.
 
-Sou estudante de **Graduação em Análise e Desenvolvimento de Sistemas na USF**. Sou apaixonado por transformar dados complexos em decisões estratégicas de negócio e atualmente busco uma oportunidade de estágio na área de Dados/BI.
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (Graduação)** na Universidade São Francisco (USF) - Previsão de formação: Julho/2027.
+- 💼 Buscando oportunidades de estágio em **Análise de Dados, Business Intelligence e Tecnologia**. Possuo 4 anos de experiência prévia como Auxiliar de Expedição, o que me proporcionou uma forte visão de processos operacionais e logística.
+- 🚀 Meu foco técnico atual está em **Data Analysis e Data Engineering**, resolvendo problemas de negócio com IA.
+- 🗣️ Inglês Intermediário (B1).
+- 🏍️ Nas horas vagas: treinando na academia, Assistindo um fut e jogando RPGs.
 
-Tenho experiência prática em construir soluções de ponta a ponta, desde a extração e tratamento dos dados até a modelagem e visualização executiva. 
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
----
+**Principais Skills:** Python (Pandas), SQL Avançado (CTEs, Joins, Window Functions), Power BI (DAX e Modelagem) e Integração de APIs (Google Gemini / GenAI).
 
-### 🛠️ Minhas Habilidades (Tech Stack)
+### 🏆 Projetos em Destaque
+- **Automação de Triagem e Análise de Sentimentos com IA Generativa:** Pipeline de dados ponta a ponta. Manipulação de histórico (CSV) via Pandas e banco SQLite, integração com a API do Google Gemini para classificar o risco de *No-Show* de pacientes, e consolidação de indicadores com queries SQL avançadas.
+- **Dashboard Executivo de Prevenção de Churn e Risco de Crédito:** Projeto de ciclo completo englobando ETL com Pandas e modelagem DAX no Power BI para tomada de decisão.
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
----
+### 📊 Meus Status no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souzzaigor&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzaigor&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
-### 🚀 O que estou construindo e destacando
-
-Meu foco principal tem sido resolver problemas reais de negócio. Um grande exemplo é o meu projeto de **Dashboard Executivo focado em Risco de Crédito e Prevenção de Churn**, onde aplico na prática:
-1. Extração e limpeza de dados utilizando Python.
-2. Estruturação e cálculos avançados.
-3. Modelagem DAX para entrega de insights acionáveis no Power BI.
-
----
-
-### 📫 Como entrar em contato comigo
-
-*   **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/igor-carvalho-39546b3a8/)
-*   **E-mail:** igorblecks@gmail.com
+### 📫 Como me encontrar
+<p align="left">
+  <a href="mailto:igorblecks@gmail.com">
+    <img src="
