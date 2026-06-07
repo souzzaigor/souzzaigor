@@ -14,7 +14,12 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+**Principais Skills:** Python (Pandas), SQL Avançado (CTEs, Joins, Window Functions), Excel, Power BI (DAX e Modelagem) e Integração de APIs (Google Gemini / GenAI).
 </p>
 
 **Principais Skills:** Python (Pandas), SQL Avançado (CTEs, Joins, Window Functions), Power BI (DAX e Modelagem) e Integração de APIs (Google Gemini / GenAI).
