@@ -25,12 +25,6 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolv
 - **Automação de Triagem e Análise de Sentimentos com IA Generativa:** Pipeline de dados ponta a ponta. Manipulação de histórico (CSV) via Pandas e banco SQLite, integração com a API do Google Gemini para classificar o risco de *No-Show* de pacientes, e consolidação de indicadores com queries SQL avançadas.
 - **Dashboard Executivo de Prevenção de Churn e Risco de Crédito:** Projeto de ciclo completo englobando ETL com Pandas e modelagem DAX no Power BI para tomada de decisão.
 
-### 📊 Meus Status no GitHub
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=souzzaigor&show_icons=true&theme=dracula&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzaigor&layout=compact&theme=dracula&locale=pt-br"/>
-</div>
-
 ### 📫 Como me encontrar
 <p align="left">
   <a href="mailto:igorblecks@gmail.com">
