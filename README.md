@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Graduação em Análise e Desenvolv
 - 💼 Buscando oportunidades de estágio em **Análise de Dados, Business Intelligence e Tecnologia**. Possuo 4 anos de experiência prévia como Auxiliar de Expedição, o que me proporcionou uma forte visão de processos operacionais e logística.
 - 🚀 Meu foco técnico atual está em **Data Analysis e Data Engineering**, resolvendo problemas de negócio com IA.
 - 🗣️ Inglês Intermediário (B1).
-- 🏍️ Nas horas vagas: treinando na academia, Jogando um fut e jogando RPGs no Switch.
+- 🏍️ Nas horas vagas: treinando na academia, Jogando um fut e jogando RPGs.
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
